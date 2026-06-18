@@ -1,0 +1,10 @@
+body{
+    background-image: url("/bg-image.jpeg");
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+     /* background-position: center; */
+    /* background-color: blueviolet; */
+    /* width: 100%; */
+    /* height: 100vh; */
+    /* background-size: cover; */
+}

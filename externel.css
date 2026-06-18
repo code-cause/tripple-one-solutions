@@ -1,0 +1,17 @@
+h1{
+    color:green;
+}
+body{
+    /* background-color: red; */
+    background-image: url("/bg-image.jpeg");
+    background-repeat: no-repeat;
+     /* background-attachment: fixed; */
+     /* background-position: center; */
+    /* color: white; */
+}
+/* .heading{
+    color:blue;
+}
+#heading1{
+    color: red;
+} */
